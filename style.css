@@ -1,0 +1,46 @@
+body {
+    background-color: #fff;
+}
+
+.header {
+    background-color: black;
+
+}
+
+h1 {
+    font-size: 60px;
+    align-items: center;
+    margin-left: 25%;
+    position: ;
+}
+
+.j {
+    font-size: 40px;
+    align-items: center;
+    margin-left: 25%;
+    color: #f16e00;
+    border: #fff;
+    border-radius: 6px;
+    background-color: #ddd;
+}
+
+#a {
+    height: 40px;
+    width: 90px;
+    background-color: #f16e00;
+    border: #fff;
+    margin-left: 25%;
+}
+
+#s {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.plans {
+    margin-left: 25%; 
+}
+
+#foot {
+    margin-left: 0%;
+}
